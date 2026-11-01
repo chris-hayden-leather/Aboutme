@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @chris-hayden
+- 👋 Hi, I’m @chris-hayden-leather
 - 👀 I’m interested in Automation Testing
 - I predominantly use TypeScript and have experience with JavaScript, LUA, HTML and CSS
